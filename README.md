@@ -2,7 +2,7 @@
 
 A place to share mongodb app code
 
-### Setup a python virtual env with python cassandra installed
+### Setup a python virtual env with python mongodb installed
 ```
 # If pip is not present in you system
 sudo apt update
